@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// Addition of two numbers.
+// Addition of two numbers.(Check for Merge Conflicts.)
 int main(){
 
     int sum, a=5, b=10;
